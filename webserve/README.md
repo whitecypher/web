@@ -2,10 +2,6 @@
 
 Start a webserver concurrently
 
-### Install
-
-`go get github.com/whitecypher/web`
-
 ### Usage
 
 ```go

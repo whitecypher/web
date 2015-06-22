@@ -1,4 +1,10 @@
 # web
 Go web utilities
 
-[webserve](webserve/)
+### Install
+
+`go get github.com/whitecypher/web`
+
+### Webserve
+
+[documentation](webserve/)
