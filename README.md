@@ -5,8 +5,8 @@ Go web utilities
 
 `go get github.com/whitecypher/web`
 
-### Webserve
+### Subpackages
 
-Start a webserver concurrently
+* [webserve](webserve/) - Start a webserver concurrently
 
-[documentation](webserve/)
+
